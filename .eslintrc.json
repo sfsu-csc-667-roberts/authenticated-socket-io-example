@@ -1,0 +1,10 @@
+{
+  "env": {
+    "es6": true
+  },
+  "plugins": ["babel", "json"],
+  "parserOptions": {
+    "sourceType": "module",
+    "ecmaVersion": 6
+  }
+}
